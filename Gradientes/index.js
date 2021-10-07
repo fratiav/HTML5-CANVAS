@@ -40,8 +40,6 @@ function start(){
     lienzo.fillStyle = degradadoRadial;
     lienzo.fillRect(500,200,200,200); //Hay que dibujar un cuadrado para que aparezca el degradado
 
-    //Trazados
-    
 }
 
 window.addEventListener("load",start,false);

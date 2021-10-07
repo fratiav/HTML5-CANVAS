@@ -1,0 +1,11 @@
+#dibujo{
+    width: 1024px;
+    height: 640px;
+    position: relative;
+    margin: 0 auto;
+}
+
+#lienzo{
+    background-color: black;
+    border: 5px solid cyan;
+}
